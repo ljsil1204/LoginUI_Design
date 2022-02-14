@@ -38,5 +38,13 @@
         android:inputType="textPassword"
         android:textColorHint="#888"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로그인"
+        android:backgroundTint="#555"
+        android:padding="12dp"
+        android:layout_marginTop="10dp"
+        android:textSize="16sp"/>
 
 </LinearLayout>
